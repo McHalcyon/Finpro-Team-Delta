@@ -1,4 +1,4 @@
-# DIRECT MARKETING PERFORMANCE REVIEW — BANK ABC TERM DEPOSIT CAMPAIGN
+# FINAL PROJECT DELTA TEAM - DIRECT MARKETING PERFORMANCE REVIEW — BANK ABC TERM DEPOSIT CAMPAIGN
 
 This project analyzes the performance of a term-deposit **direct marketing campaign** for a fictional bank (“Bank ABC”) using the well-known **Bank Marketing (Portugal)** dataset.  
 The focus is on understanding which customer segments respond best, how campaign execution (timing, channel, duration, number of calls) affects results, and what **actionable strategies** can improve conversion.
@@ -10,11 +10,9 @@ Authors :
 2. Andhika Raka
 3. Deo Gracia M P
 
-Also big appreciation to our mentor, @AndiSetianto, for the valuable feedback, guidance, and insights throughout this project.
+Also big appreciation to our mentor, @Andisetiaonto, for the valuable feedback, guidance, and insights throughout this project.
 
 Language : Bahasa Indonesia
-
-Dataset : [Kaggle](https://www.kaggle.com/datasets/volodymyrgavrysh/bank-marketing-campaigns-dataset) 
 
 ---
 
@@ -36,7 +34,7 @@ This project performs an end-to-end **Exploratory Data Analysis (EDA)** and **se
 
 1. **Profile respondents vs non-respondents** using demographics and financial attributes (age, job, education, housing/loan status, etc.).
 2. **Quantify conversion patterns** across:
-   - age group, job, and education.
+   - Age group, job, and education.
    - Contact month & day of week.
    - Communication channel (cellular vs telephone).
    - Call duration and number of contacts per customer.
@@ -127,7 +125,7 @@ This project performs an end-to-end **Exploratory Data Analysis (EDA)** and **se
 
 1. **Prioritize / Deprioritize Segments**
    - Prioritize: `student`, `retired`, `unemployed`, `admin.`, `management`, `technician`, higher education (`university.degree`, `professional.course`), and age **18–28** & **53+**.
-   - Deprioritize or apply stricter filters: `blue-collar`, `services`, and **`middle/high-school`** education segments with low conversion but high call volume.
+   - Deprioritize or apply stricter filters: `blue-collar`, `services`, and **middle/high-school** education segments with low conversion but high call volume.
 
 2. **Optimize Messaging for Under-Performing Segments**
    - Simplify product narrative, focus on **safety, predictability, and small starting amounts**.
@@ -146,6 +144,3 @@ This project performs an end-to-end **Exploratory Data Analysis (EDA)** and **se
    - Concentrate call windows on **Tue–Thu** and avoid overloading certain months.
 
 ---
-
-
-
